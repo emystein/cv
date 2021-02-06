@@ -17,9 +17,7 @@ LinkedIn: https://linkedin.com/in/emilianomenendez
 
 ### Secundaria
 
-Escuela Técnica N° 1 “Otto Krause”, Buenos Aires.
-
-Título obtenido: Técnico en Computación
+**Técnico en Computación**, Escuela Técnica N° 1 “Otto Krause”, Buenos Aires.
 
 
 ### Terciaria
@@ -80,9 +78,9 @@ Apoyo las tecnologías y los standards abiertos y las metodologías ágiles de d
 
 ### Actualidad - Octubre 2018   Tiendanube
 
-*Programador*
+**Programador**
 
-Migración el subdominio de Catalog desde un monolítico PHP hacia microservicios implementado en *Scala* y *Akka*.
+Migración el subdominio de Catalog desde un monolítico PHP hacia microservicios implementado en **Scala** y **Akka**.
 
 * Persistencia: MongoDB, Elasticsearch
 * Mensajería: Kafka
@@ -92,16 +90,16 @@ Migración el subdominio de Catalog desde un monolítico PHP hacia microservicio
 
 ### Octubre 2018 - Julio 2017   Spredfast
 
-*Programador*
+**Programador**
 
-Desarrollo de servicios RESTful implementados en *Java*, *Spring Boot* para presentar datos del data warehouse de analytics.
+Desarrollo de servicios RESTful implementados en **Java**, **Spring Boot** para presentar datos del data warehouse de analytics.
 
-Mantenimiento del job *Spark* que genera de reporte de analytics.
+Mantenimiento del job **Spark** que genera de reporte de analytics.
 
 
 ### Julio 2017 - Febrero 2013  Starmount
 
-*Software Architect*
+**Software Architect**
       
 Diseño, especificación y prototipado de componentes de software escalables, con tolerancia a fallos.
 
@@ -111,12 +109,12 @@ Algunos de los componentes cuya arquitectura definí:
 * Product Information Management System
 * Repositorio escalable de Transacciones de Retail con capacidades de búsqueda por texto libre
 
-Tecnologías usadas: *Spring Cloud*, *Camel*, *Cassandra*, *Solr*, *Jenkins*
+Tecnologías usadas: Spring Cloud, Camel, Cassandra, Solr, Jenkins
 
 
 ### Febrero 2013 - Septiembre 2010  Starmount
 
-*Tech Lead*
+**Tech Lead**
 
 La firma norteamericana Starmount (http://www.starmount.com/) se especializa en Software para el sector de Retail. En la empresa formo parte del equipo de desarrollo de productos innovadores e interactúo diariamente con el arquitecto de software y el equipo desarrollo basado en Estado Unidos.
 
@@ -130,7 +128,7 @@ Desde Marzo de 2012 me desempeño como referente técnico del equipo de desarrol
 
 ### Agosto 2010 - Agosto 2008   LPC Condor Technologies
 
-*Programador Java Sr.*
+**Programador Java Sr.**
 
 Referente del team de programadores Java Jr. de la empresa compuesto por 4 personas.
 
@@ -151,7 +149,7 @@ Básicamente HSS es un repositorio con información de usuarios de la red IMS qu
 
 ### Julio 2008 - Mayo 2005  Tintasoft
 
-*Programador Java Jr.*
+**Programador Java Jr.**
 
 * Sitio web de publicación de avisos clasificados online del diario Cape May County Herald, New Jersey, USA. http://classified.cmcherald.com
 
@@ -160,7 +158,7 @@ Tecnologías utilizadas: Java, Apache Tomcat, Spring Framework, Spring MVC, Spri
 
 ### Mayo 2005 - Marzo 1999  Redmond Software
 
-*Programador Jr.*
+**Programador Jr.**
 
 * Programación y mantenimiento del sistema de control de accesos y liquidación de horas. Implementado en Arcor, Sancor, Unilever, Bayer, Agfa, Petroken, Siat, y Siderca, entre otros clientes, utilizando Visual Basic.
 * Programación y mantenimiento de sistemas industriales con comunicación con PLC. Desarrollos para la curtiembre SADESA, utilizando Visual Basic.
@@ -169,7 +167,7 @@ Tecnologías utilizadas: Java, Apache Tomcat, Spring Framework, Spring MVC, Spri
 
 ### Febrero 1999 - Marzo 1998   Siemens Argentina
 
-*Instalador y tester de software*
+**Instalador y tester de software**
 
 * Instalación y configuración de Software. Microsoft Windows 95 y NT Workstation. Microsoft Office, y herramientas similares.
 * Testing de software para que forme parte del standard de la empresa
