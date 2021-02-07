@@ -70,7 +70,7 @@ Apoyo las tecnologías y los standards abiertos y las metodologías ágiles de d
 * Desarrollo Java Enterprise usando Spring Framework, Hibernate/JPA
 * Bases de datos NoSQL: Cassandra, MongoDB
 * Search engines: Solr, Elasticsearch
-* Desarrollo Web: Ruby on Rails, Spring MVC, Tapestry, HTML, CSS
+* Desarrollo Web: Ruby on Rails, HTML, CSS, Spring MVC
 * Deployment: Docker, Ansible
 
 
@@ -82,10 +82,11 @@ Apoyo las tecnologías y los standards abiertos y las metodologías ágiles de d
 
 Migración el subdominio de Catalog desde un monolítico PHP hacia microservicios implementado en **Scala** y **Akka**.
 
-* Persistencia: MongoDB, Elasticsearch
-* Mensajería: Kafka
-* Deployment: Docker, Kubernetes
-* Monitoring: NewRelic, Kibana
+* Persistencia: **MongoDB**, **Elasticsearch**
+* Mensajería: **Kafka**
+* Deployment: **Docker**, **Kubernetes**
+* CI: **CircleCI**
+* Monitoring: **NewRelic**, **Grafana**, **Kibana**
 
 
 ### Octubre 2018 - Julio 2017   Spredfast
@@ -109,7 +110,7 @@ Algunos de los componentes cuya arquitectura definí:
 * Product Information Management System
 * Repositorio escalable de Transacciones de Retail con capacidades de búsqueda por texto libre
 
-Tecnologías usadas: Spring Cloud, Camel, Cassandra, Solr, Jenkins
+Tecnologías usadas: **Spring Cloud**, **Camel**, **Cassandra**, **Solr**, **Jenkins**
 
 
 ### Febrero 2013 - Septiembre 2010  Starmount
