@@ -1,0 +1,4 @@
+* pandoc
+
+* Tex (MacOS: basictex, Arch Linux: texlive-core)
+
