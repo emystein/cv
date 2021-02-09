@@ -1,6 +1,1 @@
-pandoc README.md -o Emiliano_Menéndez_CV.pdf 
-
-
-
-
-
+$(npm config get prefix)/lib/node_modules/markdown-pdf/bin/markdown-pdf README.md --css-path ./pdf.css -o Emiliano_Menéndez_CV.pdf 

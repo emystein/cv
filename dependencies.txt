@@ -1,4 +1,3 @@
-* pandoc
+npm install -g markdown-pdf
 
-* Tex (MacOS: basictex, Arch Linux: texlive-core)
 
