@@ -57,9 +57,9 @@ Apoyo las tecnologías y los standards abiertos como así también las metodolog
 
 ## Programación
 
-* Diseño orientado a Objetos
+* Programación Orientada a Objetos
+* Programación Funcional
 * Test-Driven Development
-* Programación funcional
 * Lenguajes de programación: Java, Kotlin, Scala, Ruby, Python, Javascript
 * Arquitecturas escalables
 * Web Services
