@@ -52,31 +52,32 @@ Me apasiona la computación y en particular la programación.
 
 Busco constantemente perfeccionarme como programador y me gusta experimentar con nuevas tecnologías. 
 
-Apoyo las tecnologías y los standards abiertos y las metodologías ágiles de desarrollo.
+Apoyo las tecnologías y los standards abiertos como así también las metodologías ágiles de desarrollo.
 
 
 ## Programación
 
 * Diseño orientado a Objetos
 * Test-Driven Development
+* Programación funcional
+* Lenguajes de programación: Java, Kotlin, Scala, Ruby, Python, Javascript
 * Arquitecturas escalables
-* Diseño de bases de datos relacionales y NoSQL
-* Metodologías Ágiles: Extreme Programming, Scrum, Kanban
-* Lenguajes de programación: Java, Scala, Ruby, Python
-* Programación funcional (fundamentos)
-* Web Services: RESTful, SOAP
+* Web Services
 * Enterprise Integration: Camel, Kafka, JMS
-* Microservices: Spring Cloud
-* Desarrollo Java Enterprise usando Spring Framework, Hibernate/JPA
+* Java Enterprise: Spring Framework, Hibernate/JPA
 * Bases de datos NoSQL: Cassandra, MongoDB
-* Search engines: Solr, Elasticsearch
-* Desarrollo Web: Ruby on Rails, HTML, CSS, Spring MVC
-* Deployment: Docker, Ansible
+* Desarrollo Web: Ruby on Rails, HTML, CSS
 
 
 ## Experiencia Laboral
 
-### Actualidad - Octubre 2018   Tiendanube
+### Actualidad - Mayo 2021   Veritran
+
+**Tech Lead**
+
+Manejo de equipo de desarrollo full stack **Java**, **Kotlin**, **React**.
+
+### Abril 2021 - Octubre 2018   Tiendanube
 
 **Programador**
 
