@@ -52,7 +52,7 @@ Me apasiona la computación y en particular la programación.
 
 Busco constantemente perfeccionarme como programador y me gusta experimentar con nuevas tecnologías. 
 
-Apoyo las tecnologías y los standards abiertos como así también las metodologías ágiles de desarrollo.
+Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desarrollo.
 
 
 ## Programación
