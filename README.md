@@ -71,7 +71,14 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 ## Experiencia Laboral
 
-### Actualidad - Mayo 2021   Veritran
+### Actualidad - Agosto 2022   Novobi, LLC
+
+**Developer**
+
+Implementación y customización de ERP Odoo.
+
+
+### Agosto 2022 - Mayo 2021   Veritran
 
 **Tech Lead**
 
