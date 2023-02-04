@@ -1,0 +1,2 @@
+cat README.md | md-to-pdf > 'Emiliano Menéndez - CV.pdf'
+
