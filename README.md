@@ -71,7 +71,16 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 ## Experiencia Laboral
 
-### Actualidad - Agosto 2022   Novobi, LLC
+### Actualidad - Marzo 2023, Tower Systems, LLC
+
+**Director de ingenieria** 
+
+Implementación de la nueva generación del SAAS para Project Management y Collaboration de la empresa.
+
+El producto original estaba implmentado en Odoo. Desarrollamos una solución más escalable usando parte del Backend original, un nuevo Backend usando Node.js y un Frontend completamente nuevo usando Node.js, React.js y TypeScript. El sistema corría completamente en AWS.
+
+
+### Marzo 2023 - Agosto 2022   Novobi, LLC
 
 **Developer**
 
