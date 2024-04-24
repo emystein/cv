@@ -87,6 +87,7 @@ El producto original estaba implmentado en Odoo. Desarrollamos una solución má
 **Novobi, LLC**
 
 ***Agosto 2022 - Marzo 2023***
+
 Implementación y customización de ERP Odoo.
 
 
