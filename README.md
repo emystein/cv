@@ -71,31 +71,38 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 ## Experiencia Laboral
 
-### Actualidad - Marzo 2023, Tower Systems, LLC
+### Director de ingenieria
 
-**Director de ingenieria** 
+**Tower Systems, LLC**
+
+***Marzo 2023 -***
 
 Implementación de la nueva generación del SAAS para Project Management y Collaboration de la empresa.
 
 El producto original estaba implmentado en Odoo. Desarrollamos una solución más escalable usando parte del Backend original, un nuevo Backend usando Node.js y un Frontend completamente nuevo usando Node.js, React.js y TypeScript. El sistema corría completamente en AWS.
 
 
-### Marzo 2023 - Agosto 2022   Novobi, LLC
+### Developer
 
-**Developer**
+**Novobi, LLC**
 
+***Agosto 2022 - Marzo 2023***
 Implementación y customización de ERP Odoo.
 
 
-### Agosto 2022 - Mayo 2021   Veritran
+### Tech Lead
 
-**Tech Lead**
+**Veritran**
 
-Manejo de equipo de desarrollo full stack **Java**, **Kotlin**, **React**.
+***Mayo 2021 - Agosto 2022***
 
-### Abril 2021 - Octubre 2018   Tiendanube
+Lideré el equipo de desarrollo del sub-dominio de Transacciones usando un stack **Java** / **Kotlin** / **React**.
 
-**Programador**
+### Tech Lead
+
+**Tiendanube**
+
+***Octubre 2018 - Abril 2021***
 
 Migración el subdominio de Catalog desde un monolítico PHP hacia microservicios implementado en **Scala** y **Akka**.
 
@@ -106,18 +113,22 @@ Migración el subdominio de Catalog desde un monolítico PHP hacia microservicio
 * Monitoring: **NewRelic**, **Grafana**, **Kibana**
 
 
-### Octubre 2018 - Julio 2017   Spredfast
+### Developer
 
-**Programador**
+**Spredfast**
+
+***Julio 2017 - Octubre 2018*** 
 
 Desarrollo de servicios RESTful implementados en **Java**, **Spring Boot** para presentar datos del data warehouse de analytics.
 
 Mantenimiento del job **Spark** que genera de reporte de analytics.
 
 
-### Julio 2017 - Febrero 2013  Starmount
+### Software Architect
 
-**Software Architect**
+**Starmount***
+
+***Febrero 2013 - Julio 2017***
       
 Diseño, especificación y prototipado de componentes de software escalables, con tolerancia a fallos.
 
@@ -130,9 +141,11 @@ Algunos de los componentes cuya arquitectura definí:
 Tecnologías usadas: **Spring Cloud**, **Camel**, **Cassandra**, **Solr**, **Jenkins**
 
 
-### Febrero 2013 - Septiembre 2010  Starmount
+### Tech Lead
 
-**Tech Lead**
+**Starmount**
+
+***Septiembre 2010 - Febrero 2013***
 
 La firma norteamericana Starmount (http://www.starmount.com/) se especializa en Software para el sector de Retail. En la empresa formo parte del equipo de desarrollo de productos innovadores e interactúo diariamente con el arquitecto de software y el equipo desarrollo basado en Estado Unidos.
 
@@ -144,9 +157,11 @@ Desde Marzo de 2012 me desempeño como referente técnico del equipo de desarrol
 * Actualmente participo del desarrollo de un nuevo producto de integración de sistemas de Retail que tendrá una API expuesta con Web Services (por el momento SOAP en el futuro también REST) para lo cual utilizamos Spring, CXF, Apache Camel, y utiliza Cassandra como base de datos y Solr como motor de búsqueda.
 
 
-### Agosto 2010 - Agosto 2008   LPC Condor Technologies
+### Developer
 
-**Programador Java Sr.**
+**LPC Condor Technologies**
+
+***Agosto 2008 - Agosto 2010***
 
 Referente del team de programadores Java Jr. de la empresa compuesto por 4 personas.
 
@@ -165,27 +180,33 @@ Básicamente HSS es un repositorio con información de usuarios de la red IMS qu
 * Creé plugins de Maven y Continuum para adaptar dichas herramientas a las necesidades del equipo, por ej. un plugin de Maven para sincronizar proyectos Java con scripts SQL que necesitaran los proyectos. Los scripts SQL viven en el control de versiones en forma de módulos y el plugin es capaz de bajarlos y ejecutarlos para crear las distintas bases de datos que utilizan en el entorno de desarrollo, es decir para poder ejecutar la suite de tests, y un plugin de Continuum para customizar la política de aviso por mail de resultados de builds de Continuum.
 
 
-### Julio 2008 - Mayo 2005  Tintasoft
+### Developer
 
-**Programador Java Jr.**
+**Tintasoft**
+
+***Mayo 2005 - Julio 2008*** 
 
 * Sitio web de publicación de avisos clasificados online del diario Cape May County Herald, New Jersey, USA. http://classified.cmcherald.com
 
 Tecnologías utilizadas: Java, Apache Tomcat, Spring Framework, Spring MVC, Spring WebFlow, Maven, jQuery.
 
 
-### Mayo 2005 - Marzo 1999  Redmond Software
+### Developer
 
-**Programador Jr.**
+**Redmond Software**
+
+***Marzo 1999 - Mayo 2005***
 
 * Programación y mantenimiento del sistema de control de accesos y liquidación de horas. Implementado en Arcor, Sancor, Unilever, Bayer, Agfa, Petroken, Siat, y Siderca, entre otros clientes, utilizando Visual Basic.
 * Programación y mantenimiento de sistemas industriales con comunicación con PLC. Desarrollos para la curtiembre SADESA, utilizando Visual Basic.
 * Programación de los sistemas de mejoras, reclamos y de producción de materiales de avanzada para la firma Petroken, utilizando Java (JSP/Applets/Servlets)
 
 
-### Febrero 1999 - Marzo 1998   Siemens Argentina
+### Instalador y tester de software
 
-**Instalador y tester de software**
+**Siemens Argentina**
+
+***Marzo 1998 - Febrero 1999***
 
 * Instalación y configuración de Software. Microsoft Windows 95 y NT Workstation. Microsoft Office, y herramientas similares.
 * Testing de software para que forme parte del standard de la empresa
