@@ -75,20 +75,12 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 **Tower Systems, LLC**
 
-***Marzo 2023 -***
+***Septiembre 2022 -***
 
 Implementación de la nueva generación del SAAS para Project Management y Collaboration de la empresa.
 
 El producto original estaba implmentado en Odoo. Desarrollamos una solución más escalable usando parte del Backend original, un nuevo Backend usando Node.js y un Frontend completamente nuevo usando Node.js, React.js y TypeScript. El sistema corría completamente en AWS.
 
-
-### Developer
-
-**Novobi, LLC**
-
-***Agosto 2022 - Marzo 2023***
-
-Implementación y customización de ERP Odoo.
 
 
 ### Tech Lead
