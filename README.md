@@ -71,11 +71,19 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 ## Experiencia Laboral
 
+### Senior Software Engineer
+
+**GoFundMe**
+
+***Junio 2024 -***
+
+Desarrollo backend usando Kotlin, Spring, GraphQL, Kafka, Kubernetes, Open Telemetry.
+
 ### Director de ingenieria
 
 **Tower Systems, LLC**
 
-***Septiembre 2022 -***
+***Septiembre 2022 - Mayo 2024***
 
 Implementación de la nueva generación del SAAS para Project Management y Collaboration de la empresa.
 
