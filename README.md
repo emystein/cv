@@ -77,7 +77,7 @@ Apoyo las tecnologías y los standards abiertos y las prácticas ágiles de desa
 
 ***Junio 2024 -***
 
-Desarrollo backend usando Kotlin, Spring, GraphQL, Kafka, Kubernetes, Open Telemetry.
+Desarrollo backend usando Claude Code, Codex, Kotlin, Spring, GraphQL, Kafka, Kubernetes, Open Telemetry.
 
 ### Director de ingenieria
 
