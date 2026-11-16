@@ -15,11 +15,6 @@ LinkedIn: https://linkedin.com/in/emilianomenendez
 
 ## Educación
 
-### Secundaria
-
-**Técnico en Computación**, Escuela Técnica N° 1 “Otto Krause”, Buenos Aires.
-
-
 ### Terciaria
 
 Licenciatura en Ciencias de la Computación, Facultad de Ciencias Exactas y Naturales (FCEyN) de la U.B.A.
@@ -34,17 +29,22 @@ Estudios incompletos.
 * Organización del Computador I
 * Programación Orientada a Objetos
 * Diseño Avanzado de Objetos
+* Gestión de Proyectos y Procesos de Software
 
 
 #### Materias cursadas adicionalmente:
 
 * Algoritmos y Estructuras de Datos II
-* Gestión de Proyectos y Procesos de Software
+
+
+### Secundaria
+
+**Técnico en Computación**, Escuela Técnica N° 1 “Otto Krause”, Buenos Aires.
 
 
 ## Idiomas
 
-Inglés técnico: Lecto-escritura y conversación
+Inglés: conversacional
 
 
 ## Perfil
